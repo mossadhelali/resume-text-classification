@@ -28,7 +28,7 @@ I use the default parameters of the models. There are multiple reasons for the s
 3. The framework is relatively easy to use and the code is well-maintained.
 4. I used Flair embeddings for another task in my thesis, so I am familiar with the API.
 
-The model is able to achieve 92.9% accuracy on the held-out test set, which is in my opinion good enough for such a relatively simple model.
+The model is able to achieve 93.5% accuracy on the held-out test set, which is in my opinion good enough for such a relatively simple model.
 
 # File Structure 
 ```
